@@ -1,0 +1,10 @@
+{
+  "semi": true,
+  "proseWrap": "always",
+  "singleQuote": true,
+  "plugins": ["prettier-plugin-jsdoc"],
+  "tabWidth": 2,
+  "printWidth": 80,
+  "trailingComma": "es5",
+  "endOfLine": "lf"
+}
