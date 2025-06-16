@@ -7,7 +7,7 @@ const outputFolder = './output';
 const config: PlaywrightTestConfig = {
   use: {
     // Browser options
-    headless: false,
+    headless: true,
     ignoreHTTPSErrors: true,
 
     // Context options
